@@ -1,3 +1,3 @@
 # ChatGPT CLONE AI Application..
-![Open AI CodeGPT](https://i.ibb.co/LS4DRhb/image-257.png)
 
+![chat gtp](https://user-images.githubusercontent.com/119850488/227719200-5d7c898f-fca2-489e-ae35-969e2dc325ca.png)
